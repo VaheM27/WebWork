@@ -1,3 +1,3 @@
 # WebWork
 https://vahem27.github.io/WebWork/ - tap here for a quick preview of my project.
-![3](https://user-images.githubusercontent.com/60319108/151677192-23ec1dc7-9413-4d73-86a5-386500f2a96e.png)
+<img width="1425" alt="Screen Shot 2022-01-30 at 00 54 58" src="https://user-images.githubusercontent.com/60319108/151677270-00e855b1-6b5a-4672-b603-62a56addadc5.png">
